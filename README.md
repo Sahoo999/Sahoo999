@@ -107,13 +107,9 @@ const debangsuSahoo = {
 
 <div align="center">
 
-<img height="165em" src="https://github-readme-streak-stats.herokuapp.com/?user=sahoo999&theme=react&background=0d1117&border=0072ff&ring=00c9a7&fire=00d2ff&currStreakLabel=00c9a7"/>
-
-<br/><br/>
-
-[![GitHub Stats](https://img.shields.io/badge/📊_View%20Full%20GitHub%20Stats-0072ff?style=for-the-badge&logo=github)](https://github.com/sahoo999)
-[![Top Languages](https://img.shields.io/badge/💻_View%20Top%20Languages-00c9a7?style=for-the-badge&logo=github)](https://github.com/sahoo999?tab=repositories)
-[![Contribution Graph](https://img.shields.io/badge/📈_View_Contribution_Graph-00d2ff?style=for-the-badge&logo=github)](https://github.com/sahoo999)
+<img src="https://img.shields.io/badge/Total_Contributions-232-0072ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔥_Longest_Streak-37_days-00d2ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Current_Streak-11_days-00c9a7?style=for-the-badge"/>
 
 </div>
 
