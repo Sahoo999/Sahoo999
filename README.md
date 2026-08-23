@@ -37,7 +37,7 @@
 
 ```typescript
 const debangsuSahoo = {
-    role: "AI Based Full Stack Developer",
+    role: "Full Stack Developer",
     stack: ["MERN", "T3 stack", "FARM"],
     focus: "Building scalable, real-world web applications",
     currentlyLearning: ["System Design", "AI Engineering"],
