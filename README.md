@@ -38,7 +38,7 @@
 ```typescript
 const debangsuSahoo = {
     role: "AI Based Full Stack Developer",
-    stack: ["MERN", "PERN", "AI/LLM Integration"],
+    stack: ["MERN", "T3 stack", "FARM"],
     focus: "Building scalable, real-world web applications",
     currentlyLearning: ["System Design", "AI Engineering"],
     funFact: "I debug faster with coffee ☕"
