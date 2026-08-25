@@ -105,10 +105,11 @@ const debangsuSahoo = {
 
 ## 📊 GitHub Analytics
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sahoo999&theme=dark&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
-</p>
-
+<div center>
+<img src="https://img.shields.io/badge/Total_Contributions-2282-0072ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/🔥_Longest_Streak-302_days-00d2ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/⚡_Current_Streak-236_days-00c9a7?style=for-the-badge"/>
+</div>
 <br/>
 
 
