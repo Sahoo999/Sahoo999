@@ -5,7 +5,7 @@
 <br/>
 
 <a href="https://github.com/sahoo999">
-  <img src="https://komarev.com/ghpvc/?username=sahoo999&label=Profile%20Views&color=00c9a7&style=for-the-badge&base=3083" />
+  <img src="https://komarev.com/ghpvc/?username=sahoo999&label=Profile%20Views&color=00c9a7&style=for-the-badge&base=6084" />
 </a>
 <img src="https://img.shields.io/badge/dynamic/json?color=0072ff&label=Followers&query=followers&url=https%3A%2F%2Fapi.github.com%2Fusers%2Fsahoo999&style=for-the-badge&logo=github" />
 <img src="https://img.shields.io/badge/Open%20to-Work-00d2ff?style=for-the-badge&logo=vercel&logoColor=white" />
@@ -105,13 +105,9 @@ const debangsuSahoo = {
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-
- <img src="https://your-domain.com/api/github/contributions?username=sahoo999" alt="Total Contributions"/>
-  <img src="https://your-domain.com/api/github/longest-streak?username=sahoo999" alt="Longest Streak"/>
-  <img src="https://your-domain.com/api/github/current-streak?username=sahoo999" alt="Current Streak"/>
-
-</div>
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=Sahoo999&theme=dark&hide_border=true&background=0D1117&ring=00D2FF&fire=00D2FF&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=FFFFFF&sideLabels=FFFFFF" />
+</p>
 
 <br/>
 
