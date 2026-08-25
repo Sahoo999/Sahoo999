@@ -107,9 +107,9 @@ const debangsuSahoo = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/Total_Contributions-232-0072ff?style=for-the-badge&logo=github&logoColor=white"/>
-<img src="https://img.shields.io/badge/🔥_Longest_Streak-37_days-00d2ff?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/⚡_Current_Streak-11_days-00c9a7?style=for-the-badge"/>
+ <img src="https://your-domain.com/api/github/contributions?username=sahoo999" alt="Total Contributions"/>
+  <img src="https://your-domain.com/api/github/longest-streak?username=sahoo999" alt="Longest Streak"/>
+  <img src="https://your-domain.com/api/github/current-streak?username=sahoo999" alt="Current Streak"/>
 
 </div>
 
