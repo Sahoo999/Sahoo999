@@ -90,10 +90,10 @@ const debangsuSahoo = {
 
 | Project | Description | Link |
 |---|---|---|
-| 🎓 **LMS Website** | Full-stack learning management system | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-00c9a7?style=flat-square&logo=github)](https://github.com/sahoo999/Lms-website) |
-| 🤖 **Meeting AI** | AI-powered meeting transcription & summarization tool | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0072ff?style=flat-square&logo=github)](https://github.com/sahoo999/meeting-ai) |
-| 🌱 **Crop Disease Detection** | ML-based crop disease detection & recommendations | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-00d2ff?style=flat-square&logo=github)](https://github.com/sahoo999/crop_diseases_detection) |
-| 📊 **ML Project** | Machine learning project | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-00c9a7?style=flat-square&logo=github)](https://github.com/sahoo999/ml-proejct) |
+| 🚀 **PR Review Agent** | AI-powered GitHub pull request review & code analysis agent | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-00c9a7?style=flat-square&logo=github)](https://github.com/Sahoo999/PR-Review-Agent) |
+| 🧾 **Vendor Invoice Intelligence** | AI-powered invoice processing, extraction & financial intelligence system | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-0072ff?style=flat-square&logo=github)](https://github.com/Sahoo999/vendor-invoice-intelligence) |
+| 🧠 **RAG-Based Q&A System** | Retrieval-augmented AI system for context-aware document question answering | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-00d2ff?style=flat-square&logo=github)](https://github.com/Sahoo999/RAG-BASED-Q-A-SYSTEM) |
+| 🤖 **Multi-MCP Agent Router** | Intelligent multi-agent routing system built around the Model Context Protocol | [![Repo](https://img.shields.io/badge/GitHub-View%20Repo-00c9a7?style=flat-square&logo=github)](https://github.com/Sahoo999/multi-MCP-agent-router) |
 
 </div>
 
