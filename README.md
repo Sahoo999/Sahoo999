@@ -106,7 +106,7 @@ const debangsuSahoo = {
 ## 📊 GitHub Analytics
 
 <div center>
-<img src="https://img.shields.io/badge/Total_Contributions-3045-0072ff?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/Total_Contributions-2294-0072ff?style=for-the-badge&logo=github&logoColor=white"/>
 <img src="https://img.shields.io/badge/🔥_Longest_Streak-302_days-00d2ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/⚡_Current_Streak-236_days-00c9a7?style=for-the-badge"/>
 </div>
