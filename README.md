@@ -135,8 +135,8 @@ const debangsuSahoo = {
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/🚀_Full--Stack_Projects_Shipped-4-00c9a7?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/🤖_AI%2FLLM_Projects-2-0072ff?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🚀_Full--Stack_Projects_Shipped-6-00c9a7?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/🤖_AI%2FLLM_Projects-4-0072ff?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/💻_LeetCode_Problem_Solver-00d2ff?style=for-the-badge&logo=leetcode&logoColor=white"/>
 <img src="https://img.shields.io/badge/📚_Always_Learning-Growth_Mindset-00c9a7?style=for-the-badge"/>
 
